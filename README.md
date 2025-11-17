@@ -2,8 +2,7 @@
 **A Software Developer Engineer || Full Stack Java Develper || Maharashtra Admin from India**
 
 Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** E-lobur Website 
+ 
 - 🌱 **I’m currently learning:** Java
 - 👯 **I’m looking to collaborate on:** E-lobur Website
 - 🤔 **I’m looking for help with:** 
