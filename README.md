@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
-- 🌱 **I’m currently learning:** Java
+- 🌱 **I’m currently learning:** AI and Machines Learning
 - 👯 **I’m looking to collaborate on:** E-lobur Website
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
@@ -38,6 +38,8 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🛠 Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
