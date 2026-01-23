@@ -11,7 +11,11 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 - 😄 **Pronouns:** Gaurav Aswale
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaurav Aswale) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_aswale_8) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gaurav Ramesh Aswale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravaswale65@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-aswale-65566531b/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gauravaswale65)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/GauravAs2003/)
+[![Naukri](https://img.shields.io/badge/Naukri-0047AB?logo=internetexplorer&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravaswale65@gmail.com) 
 
 
 ## 🏆 GitHub Trophies
@@ -30,6 +34,7 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,6 +43,10 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GauravAs2003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
