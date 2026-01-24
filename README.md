@@ -1,5 +1,6 @@
 # 💫 👋 Hi, I'm Gaurav Aswale
 
+# ![Profile views](https://komarev.com/ghpvc/?username=GauravAs2003&color=blue)
 Software Development Engineer | Full-Stack Java Developer
 📍 Maharashtra, India 🇮🇳
 
