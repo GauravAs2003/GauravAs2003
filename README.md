@@ -60,7 +60,7 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 
 ## 🏗️ Key Projects
 
-### 🏦 Smart Banking Application
+### 🏦 GenNext-SmartBanking Application
 - Built secure **RESTful APIs** using **Spring Boot** and **JWT**
 - Implemented **user authentication**, **account management**, and **transaction handling**
 - Integrated **MySQL / H2 Database** using **Hibernate** and **JDBC**
@@ -68,7 +68,7 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 
 ---
 
-### 📚 LibroVault – Book Management System
+### 📚 LibroVault – BookNest Management System
 - Developed a **full-stack CRUD application**
 - Optimized database interactions using **Hibernate ORM**
 - Designed clean backend services with a structured architecture
