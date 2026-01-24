@@ -1,15 +1,23 @@
-# 💫 Hi 👋, I'm Gaurav Aswale
-**A Software Developer Engineer || Full Stack Java Develper || Maharashtra Admin from India**
+# 💫 👋 Hi, I'm Gaurav Aswale
 
-Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Software Development Engineer | Full-Stack Java Developer
+📍 Maharashtra, India 🇮🇳
+
+📧 Email: gauravaswale65@gmail.com
+
+💼 Open to: Full-time roles, internships, and project-based collaborations
+
+🎯 Professional Summary
+
+Results-driven Full-Stack Java Developer with hands-on experience in building secure, scalable web applications using Java, Spring Boot, REST APIs, and relational databases. Strong understanding of backend architecture, clean code practices, and end-to-end application development. Actively expanding expertise in AI (Artificial Intelligence ).
  
-- 🌱 **I’m currently learning:** AI and Machines Learning
-- 👯 **I’m looking to collaborate on:** E-lobur Website
+- 🌱 currently learning:** Advanced backend design & system architecture And Artificial Intelligence
+- 👯 **I’m looking to collaborate on:** E-Labour / Employment Web Applications,Java & Spring Boot–based projects,Full-stack development ideas
 - 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs And Backend development & database design ,Project collaboration & tech support
 - 📫 **How to reach me:** gauravaswale65@gmail.com
 - 😄 **Pronouns:** Gaurav Aswale
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I enjoy solving real-world problems through code—and learning something new every day 🚀💻
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-aswale-65566531b/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gauravaswale65)
@@ -17,9 +25,6 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 [![Naukri](https://img.shields.io/badge/Naukri-0047AB?logo=internetexplorer&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravaswale65@gmail.com) 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:## 🛠️ Tech Stack
 
@@ -35,20 +40,40 @@ Email Me 👉 ✉️ **gauravaswale65@gmail.com** For Collaboration/Project or A
 ![Servlet](https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![H2 Database](https://img.shields.io/badge/H2_Database-1F4FD8?style=for-the-badge&logo=h2&logoColor=white)
 
 ### 🛠 Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+
+#🏗️ Key Projects
+🏦 Smart Banking Application
+      Built secure REST APIs using Spring Boot & JWT
+      Implemented user authentication, account management, and transactions
+      Integrated MySQL / H2 database with Hibernate & JDBC
+Followed layered architecture for scalability and maintainability
+
+📚 LibroVault – Book Management System
+       Developed full-stack CRUD application
+       Optimized database interactions using Hibernate
+Clean UI with structured backend services
+
+🤝 E-Labour Employment Platform (In Progress)
+      Platform connecting workers and employers
+      Focus on real-world problem solving and scalability
+Designed RESTful backend services
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GauravAs2003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
