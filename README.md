@@ -45,8 +45,8 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![H2 Database](https://img.shields.io/badge/H2_Database-1F4FD8?style=for-the-badge&logo=h2&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠 Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -58,22 +58,17 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-#🏗️ Key Projects
-🏦 Smart Banking Application
-      Built secure REST APIs using Spring Boot & JWT
-      Implemented user authentication, account management, and transactions
-      Integrated MySQL / H2 database with Hibernate & JDBC
-Followed layered architecture for scalability and maintainability
+#🏗️ Key Projects :-
+🏦 Smart Banking Application:-
+      -Built secure REST APIs using Spring Boot & JWT
+      -Implemented user authentication, account management, and transactions
+      -Integrated MySQL / H2 database with Hibernate & JDBC
+-Followed layered architecture for scalability and maintainability
 
-📚 LibroVault – Book Management System
-       Developed full-stack CRUD application
-       Optimized database interactions using Hibernate
-Clean UI with structured backend services
-
-🤝 E-Labour Employment Platform (In Progress)
-      Platform connecting workers and employers
-      Focus on real-world problem solving and scalability
-Designed RESTful backend services
+📚 LibroVault – Book Management System:-
+       -Developed full-stack CRUD application
+       -Optimized database interactions using Hibernate
+-Clean UI with structured backend services
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GauravAs2003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
