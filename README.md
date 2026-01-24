@@ -58,17 +58,21 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-#🏗️ Key Projects :-
-🏦 Smart Banking Application:-
-      -Built secure REST APIs using Spring Boot & JWT
-      -Implemented user authentication, account management, and transactions
-      -Integrated MySQL / H2 database with Hibernate & JDBC
--Followed layered architecture for scalability and maintainability
+## 🏗️ Key Projects
 
-📚 LibroVault – Book Management System:-
-       -Developed full-stack CRUD application
-       -Optimized database interactions using Hibernate
--Clean UI with structured backend services
+### 🏦 Smart Banking Application
+- Built secure **RESTful APIs** using **Spring Boot** and **JWT**
+- Implemented **user authentication**, **account management**, and **transaction handling**
+- Integrated **MySQL / H2 Database** using **Hibernate** and **JDBC**
+- Followed **layered architecture** for scalability and maintainability
+
+---
+
+### 📚 LibroVault – Book Management System
+- Developed a **full-stack CRUD application**
+- Optimized database interactions using **Hibernate ORM**
+- Designed clean backend services with a structured architecture
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GauravAs2003&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
