@@ -16,7 +16,9 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 - 👯 **I’m looking to collaborate on:** E-Labour / Employment Web Applications,Java & Spring Boot–based projects,Full-stack development ideas
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs And Backend development & database design ,Project collaboration & tech support
-- 📫 **How to reach me:** gauravaswale65@gmail.com
+-  📫 **How to reach me:**  
+-  📧 Email: gauravaswale65@gmail.com  
+-  🌐 Portfolio: https://gauravaswaleportfolio.netlify.app/
 - 😄 **Pronouns:** Gaurav Aswale
 - ⚡ **Fun fact:** I enjoy solving real-world problems through code—and learning something new every day 🚀💻
 ## 🌐 Socials:
