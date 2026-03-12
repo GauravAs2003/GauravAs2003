@@ -65,6 +65,15 @@ Results-driven Full-Stack Java Developer with hands-on experience in building se
 
 ## 🏗️ Key Projects
 
+### 👷 E-Laborer Management System using AI
+- Developed a full-stack **labor management application** to manage worker records and assignments
+- Implemented **CRUD operations** for adding, viewing, updating, and deleting laborer details
+- Built **RESTful APIs using Spring Boot** to handle laborer data and work assignments
+- Integrated **MySQL database using Hibernate / JPA** for efficient data storage and retrieval
+- Designed a **dashboard interface** to track total laborers, active assignments, and available workers
+- Implemented **search functionality** to find laborers based on skills
+- Followed **layered architecture (Controller, Service, Repository)** for clean and maintainable code
+
 ### 🏦 GenNext-SmartBanking Application
 - Built secure **RESTful APIs** using **Spring Boot** and **JWT**
 - Implemented **user authentication**, **account management**, and **transaction handling**
